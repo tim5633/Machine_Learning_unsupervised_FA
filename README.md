@@ -20,10 +20,25 @@ This section will begin by presenting the K-means clustering with original data.
 3.1 K-means Clustering with Original Data
 Based on the populated elbow plot in R code, the point with significant drop in variance is when k = 4 from the range of 1 to 10. Hence, 4 is the chosen optimal cluster number.
 
-![Picture 1](https://user-images.githubusercontent.com/61338647/170354364-9142fa7c-9545-4daf-bb14-ec366f4ae083.png)
-
+![Picture 1](https://user-images.githubusercontent.com/61338647/170355269-01912370-170b-410d-a4ac-83fbfc38f50f.png)
 
 As can be seen from the distribution **Plot 1**, there are overlaps of observations from some features such as customer’s enrolment date and birth year, hence, no clear pattern is seen. However, a visible clear pattern is seen for other significant features such as income, amount spent on wine, fruits, meat, fish, sweet and gold in the last 2 years. Also, relationships can be identified from the dispersion patterns of purchases made through different channels.  
+
+![Picture 2](https://user-images.githubusercontent.com/61338647/170355305-2d4f8322-0c9e-4190-84fc-bb6d098e7015.png)
+
+![Picture 3](https://user-images.githubusercontent.com/61338647/170355313-48a303e8-71da-416d-aafe-e09759fd9f24.png)
+
+![Picture 4](https://user-images.githubusercontent.com/61338647/170355326-922d07be-3741-4608-927a-7d2eff5ce404.png)
+
+![Picture 5](https://user-images.githubusercontent.com/61338647/170355340-5256ca93-e161-4b58-bd74-196b3536c003.png)
+
+![Picture 6](https://user-images.githubusercontent.com/61338647/170355357-0b26508b-c6bd-4bce-a937-46e6fc746b15.png)
+
+![Picture 7](https://user-images.githubusercontent.com/61338647/170355370-8b8d0c87-3eab-40c5-b865-da5428a14683.png)
+
+![Picture 8](https://user-images.githubusercontent.com/61338647/170355388-ddf68df6-d469-4c81-bbbd-e65b77f88397.png)
+
+<img width="1045" alt="Picture 9" src="https://user-images.githubusercontent.com/61338647/170355396-b42a449b-7907-412e-849a-4dddf83f8e2d.png">
 
 
 
