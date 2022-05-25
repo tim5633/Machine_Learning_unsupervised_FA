@@ -20,8 +20,8 @@ This section will begin by presenting the K-means clustering with original data.
 3.1 K-means Clustering with Original Data
 Based on the populated elbow plot in R code, the point with significant drop in variance is when k = 4 from the range of 1 to 10. Hence, 4 is the chosen optimal cluster number.
 
-**Plot 1 - Distribution of Clusters**  
-<img width="205" alt="image" src="https://user-images.githubusercontent.com/61338647/170353896-46c536a0-55b3-4f9f-8885-18c6693909a5.png">
+![Picture 1](https://user-images.githubusercontent.com/61338647/170354364-9142fa7c-9545-4daf-bb14-ec366f4ae083.png)
+
 
 As can be seen from the distribution **Plot 1**, there are overlaps of observations from some features such as customer’s enrolment date and birth year, hence, no clear pattern is seen. However, a visible clear pattern is seen for other significant features such as income, amount spent on wine, fruits, meat, fish, sweet and gold in the last 2 years. Also, relationships can be identified from the dispersion patterns of purchases made through different channels.  
 
