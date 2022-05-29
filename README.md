@@ -74,13 +74,13 @@ Based on the result from Factor analysis and K-means from Plot 8, findings were 
 
 Recommendation tailored to each cluster is provided to the company based on the finding and analysis from previous section.
 
-**Customer Segment 1**
+**Customer Segment 1**  
 Cluster 1 has less monetary potential comparing to cluster 3; however, the company is advice to invest on this group of consumers accordingly. Frequent sales promotion, especially on wine, should be given to this segment, provided that discount is one of their purchase incentives. Since consumers in cluster 1 are comfortable with online shopping, digital campaigns via different channels featuring product discount should be created for them. 
 
-**Customer Segment 2**
+**Customer Segment 2**  
 The company is advised to not focus on this cluster of customers since analysis indicates it has the lowest monetary potential and contribution to the company. Any commercial initiates for this cluster would likely yield low return on investment. 
 
-**Customer Segment 3**
+**Customer Segment 3**  
 Building business strategies focusing on cluster 3 is recommended, given that consumers in this cluster have huge monetary value and they are active buyers. More specifically, high-end product segments, especially fish and wine, can be developed targeting this group of people, and exclusive in store shopping services can be provided, ensuring great customer experience. Marketing campaigns should also be created following same logic. Digital initiatives can also be experimented on this cluster since they are willing to shop online.
 
 
