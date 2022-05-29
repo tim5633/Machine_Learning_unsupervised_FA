@@ -1,5 +1,7 @@
 ## 1. Introduction
 This report aims to provide a detailed analysis of the customer personality data set. Section 2 describes the methodology applied to explore the data set. The empirical results are presented in section 3. The main findings on clusters are discussed in section 4. The final section provides practical recommendations for the company to better serve consumers in each cluster.  
+  
+The data is avaiable at `customer-personality.csv` file 
 
 ## 2. Methodology and Steps
 ### Method 1 - Using purchase behaviour of pre-processed data and applying k-mean clustering
